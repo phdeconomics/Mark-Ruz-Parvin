@@ -1,3 +1,6 @@
+ Add a theme.
+Add an index.md file with "Hello WOrld" on it
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/phdeconomics/Mark-Ruz-Parvin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
